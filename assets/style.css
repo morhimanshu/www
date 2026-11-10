@@ -1,0 +1,62 @@
+html * {
+  line-height: 1.5em;
+}
+
+html, body { height: 100% }
+
+#body {
+  font-family: Inter;
+  line-height: 1.5em;
+  background: #f3f3f3;
+  padding: 0;
+}
+
+#links a {
+  color: #036;
+}
+
+#bodyy {
+  width: 980px;
+  margin: 0 auto;
+}
+
+#header {
+  width: 980px;
+  padding: 0;
+  margin: 0 auto;
+  border: 0;
+  border-bottom: solid black 3px;
+}
+
+#header h1 {
+  height: 90px;
+  font-size: 80px;
+  font-weight: bold;
+  padding: 0;
+  margin: 0;
+  padding-bottom: .1em;
+}
+ 
+#wrapper h1 a {
+  color: #000;
+  text-decoration: none;
+  display: block;
+}
+
+#header h1 a:hover {
+  color: #222;
+}
+
+#footer {
+  width: 980px;
+  border-top: solid 1px #ccc;
+  text-align: center;
+  color: #333;
+  clear: both;
+  padding: 0;
+  font-size:85%;
+}
+
+#footer a {
+  color: #333;
+}
