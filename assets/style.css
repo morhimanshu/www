@@ -36,11 +36,10 @@ html, body { height: 100% }
   margin: 0;
   padding-bottom: .1em;
 }
- 
+
 #wrapper h1 a {
   color: #000;
   text-decoration: none;
-  display: block;
 }
 
 #header h1 a:hover {
